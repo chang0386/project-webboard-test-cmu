@@ -1,0 +1,11 @@
+Database Name : project_webboard
+
+Heroku Link : https://project-webboard-test-cmu.herokuapp.com/
+
+GitHub Link : https://github.com/chang0386/project-webboard-test-cmu.git
+
+Admin
+user : admin
+password : qwerty
+
+โปรแกรมสามารถรันได้ตามข้อสอบ ยกเว้นข้อที่ f. เนื่องจากพบปัญหาการ update ยังไม่สามารถแก้ให้ได้ทันเวลา
